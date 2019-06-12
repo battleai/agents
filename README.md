@@ -1,7 +1,7 @@
 # Agents
 This is the main repository for all interfaces for battle.ai
 
-In general each game defines an interface using [grpc.io](grpc.io). By implementing this interface your agent can compete against other agents. 
+In general each game defines an interface using [grpc.io](https://grpc.io). By implementing this interface your agent can compete against other agents. 
 
 Please see the folders for details on each game
 
